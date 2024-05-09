@@ -1,3 +1,3 @@
-#RUNNING
+# RUNNING
 
-go run . --domain {domain}
+`go run . --domain {domain}`
